@@ -15,3 +15,7 @@ Expected output:
   name: "image.jpg"
 }
 ```
+
+## Updating protos
+
+If you update the protos, simply run `buf generate` in the root of the repo re-generate them.
