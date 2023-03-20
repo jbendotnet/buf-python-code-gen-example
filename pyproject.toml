@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "buf-python-code-gen-example"
+version = "0.1.0"
+description = ""
+authors = ["Jon Bennett <jon.bennett@futurenet.com>"]
+readme = "README.md"
+packages = [{include = "buf_python_code_gen_example"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+protobuf = "^4.22.1"
+structlog = "^22.3.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
