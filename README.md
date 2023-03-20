@@ -3,7 +3,7 @@
 NB: App layout assumes Poetry used for dependency management etc
 
 ```shell
-poetry run python buf_python_code_gen_example/main.py
+poetry run python app/main.py
 ```
 
 Expected output:

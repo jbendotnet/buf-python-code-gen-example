@@ -4,7 +4,7 @@ version = "0.1.0"
 description = ""
 authors = ["Jon Bennett <jon.bennett@futurenet.com>"]
 readme = "README.md"
-packages = [{include = "buf_python_code_gen_example"}]
+packages = [{include = "app"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
