@@ -1,6 +1,6 @@
 # Buf Python Code-gen Example
 
-NB: App layout assumes Poetry used for dependency management etc
+> NB: App layout assumes Poetry used for dependency management etc
 
 ```shell
 poetry run python app/main.py
